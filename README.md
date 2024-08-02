@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Biola</h1>
+<p align="left">Python developer exploring the intersection of Machine Learning/Data Science and Biological systems</p>
 
-<!--
-**decorouz/decorouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Deep Learning (PyTorch) and Remote Sensing for application in biological systems, including agricultural engineering, biomedical engineering, bioresource engineering and environmental engineering.**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<table>
+  <tr style="border: none">
+    <td valign="top" style="border: none">
+      <img src="https://github-readme-stats.vercel.app/api?username=decorouz&show_icons=true&theme=transparent" alt="GitHub Stats" />
+    </td>
+    <td valign="top" style="border: none">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=decorouz&mode=weekly&theme=transparent" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+
+
