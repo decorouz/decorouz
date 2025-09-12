@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Biola</h1>
-<p align="left">As a self-taught Software Developer and Data Science Developer, I specialize in applying machine learning and deep learning techniques to the domains of Agriculture and Biological systems.</p>
+<p align="left">I am passionate about the application of data science and artificial intelligence in domains of Precision Agriculture.</p>
 
-- 🌱 I’m currently learning **Deep Learning (PyTorch), QGIS and Remote Sensing for Precision Agriculture.**
+- 🌱 I’m currently learning **Geospatial computing, GIS and Remote Sensing for Precision Agriculture.**
 
 
 
