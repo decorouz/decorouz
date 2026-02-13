@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Biola</h1>
 <p align="left">I am passionate about the application of data science and artificial intelligence in domains of Precision Agriculture.</p>
 
-- 🌱 I’m currently learning **Geospatial computing, GIS and Remote Sensing for Precision Agriculture.**
+- 🌱 I’m currently currently learning Geospatial database creation and management for **Precision Agriculture.**
 
 
 
